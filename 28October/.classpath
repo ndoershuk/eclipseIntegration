@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="9sepbase/|sep16robot/src/|HeapSort/|web service example/jersey-service/src/main/java/|JavaApplication4/src/javaapplication4/|JavaApplication5/src/javaapplication5/|Gaussian/|26aug/26aug/|newjersey/jersey-service/src/main/java/|sep9project/src/|sep9/|GaussianProject/src/gaussianproject/|HeapSortProject/src/heapsortproject/|OOPSep2/src/oopsep2/|swingdemo/swingdemo/src/main/java/|sep9project/src/sep9project/|web service example/jersey-service/src/test/java/" kind="src" path=""/>
+	<classpathentry kind="src" path="26aug/26aug"/>
+	<classpathentry kind="src" path="9sepbase"/>
+	<classpathentry kind="src" path="Gaussian"/>
+	<classpathentry kind="src" path="GaussianProject/src/gaussianproject"/>
+	<classpathentry kind="src" path="HeapSort"/>
+	<classpathentry kind="src" path="HeapSortProject/src/heapsortproject"/>
+	<classpathentry kind="src" path="JavaApplication4/src/javaapplication4"/>
+	<classpathentry kind="src" path="JavaApplication5/src/javaapplication5"/>
+	<classpathentry kind="src" path="newjersey/jersey-service/src/main/java"/>
+	<classpathentry kind="src" path="OOPSep2/src/oopsep2"/>
+	<classpathentry kind="src" path="sep16robot/src"/>
+	<classpathentry kind="src" path="sep9"/>
+	<classpathentry excluding="sep9project/" kind="src" path="sep9project/src"/>
+	<classpathentry kind="src" path="sep9project/src/sep9project"/>
+	<classpathentry kind="src" path="swingdemo/swingdemo/src/main/java"/>
+	<classpathentry kind="src" path="web service example/jersey-service/src/main/java"/>
+	<classpathentry kind="src" path="web service example/jersey-service/src/test/java"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="GaussianProject/build/classes"/>
+</classpath>
